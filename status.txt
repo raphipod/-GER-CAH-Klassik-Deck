@@ -1,0 +1,19 @@
+Copyright 2020(C) Raphipod
+
+- CAH-Deck for/für MassiveDecks
+________________________________________________________________________________
+
+GERMAN:
+Dieses Deck ist ein exaktes Replikat des Kartendecks "Deutsch_german_thevado" aus azala.info
+
+ENGLISH:
+This deck is an exact copy of the deck "Deutsch_german_thevado" from azala.info
+
+________________________________________________________________________________
+
+PROGRESS:
+
+- Calls: 59/232 from the original ported to MassiveDecks (25%)
+- Answers: 60/794 from the original ported to MassiveDecks (7,6%)
+
+NOTE: This progress doesn't happen automatically, it is all "hand-written" into the MassiveDecks-page.
