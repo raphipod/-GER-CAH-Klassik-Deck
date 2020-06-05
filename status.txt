@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
 PROGRESS:
 
-- Calls: 96/232 from the original ported to MassiveDecks (41,3%)
-- Answers: 141/794 from the original ported to MassiveDecks (17,7%)
+- Calls: 140/232 from the original ported to MassiveDecks (60,3%)
+- Answers: 260/794 from the original ported to MassiveDecks (32,7%)
 
--> 29,5 % finished -> Version 0.29.5
+-> 46,5 % finished -> Version 0.46.5
 
 NOTE: This progress doesn't happen automatically, it is all "hand-written" into the MassiveDecks-page.

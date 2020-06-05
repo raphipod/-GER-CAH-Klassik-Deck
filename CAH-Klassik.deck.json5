@@ -1,5 +1,6 @@
 {
-  "name": "[GER] CAH-Klassik",
+  "name": "CAH-Klassik",
+  "language": "de",
   "author": "Raphipod",
   "calls": [
     [
@@ -681,6 +682,281 @@
         {},
         ": Gut bis zum letzten Tropfen."
       ]
+    ],
+    [
+      [
+        "Was wird im Alter besser? ",
+        {}
+      ]
+    ],
+    [
+      [
+        "Die Klassenfahrt wurde durch ",
+        {},
+        " völlig ruiniert."
+      ]
+    ],
+    [
+      [
+        "Als ich auf LSD war, verwandelte sich ",
+        {},
+        " in ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Was hat Vin Diesel zu Abend gegessen? ",
+        {}
+      ]
+    ],
+    [
+      [
+        "Was ist der wichtigste Bestandteil der neuesten Trenddiät? ",
+        {}
+      ]
+    ],
+    [
+      [
+        "Bei meinem nächsten Zaubertrick werde ich ",
+        {},
+        " aus einem ",
+        {},
+        " holen."
+      ]
+    ],
+    [
+      [
+        "Wieso hat das kleine Kind sein Eis fallen lassen? ",
+        {}
+      ]
+    ],
+    [
+      [
+        "Es tut mir leid, Professor, aber wegen dem ",
+        {},
+        " konnte ich meine Hausaufgaben nicht machen."
+      ]
+    ],
+    [
+      [
+        "Neues von J.K. Rowling: Harry Potter und ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Was ist Batmans heimliches Laster? ",
+        {}
+      ]
+    ],
+    [
+      [
+        "Im Profi-Baseball wurde ",
+        {},
+        " verboten, weil es Spielern unfaire Vorteile verschaffte"
+      ]
+    ],
+    [
+      [
+        "In 1.000 Jahren, wenn Papiergeld  nur eine entfernte Erinnerung ist, wird ",
+        {},
+        " unsere Währung sein."
+      ]
+    ],
+    [
+      [
+        "Es ist eine Schande, dass Kinder heutzutage in ",
+        {},
+        " hineingezogen werden."
+      ]
+    ],
+    [
+      [
+        "TSA-Richtlinien verbieten nun ",
+        {},
+        " in Flugzeugen."
+      ]
+    ],
+    [
+      [
+        "Ist ",
+        {},
+        " auch ein Instrument?"
+      ]
+    ],
+    [
+      [
+        "Setzt euch ans Lagerfeuer, singt das ",
+        {},
+        "lied!"
+      ]
+    ],
+    [
+      [
+        "Ich will auch ",
+        {},
+        " sein!"
+      ]
+    ],
+    [
+      [
+        "Bist du auch so wütend wie ich!? Ja! Warum? ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        {},
+        " ist der drittgrößte Auslöser von Akne."
+      ]
+    ],
+    [
+      [
+        "Ein neuer Tag, ein neuer ",
+        {},
+        "!"
+      ]
+    ],
+    [
+      [
+        "Haben Sie 20 Portionen ",
+        {},
+        " bestellt?"
+      ]
+    ],
+    [
+      [
+        "Ich fühle mich schön mit ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Der Tag geht, ",
+        {},
+        " kommt!"
+      ]
+    ],
+    [
+      [
+        {},
+        " aktiviert Abwehrkräfte."
+      ]
+    ],
+    [
+      [
+        {},
+        " geht, ",
+        {},
+        " entsteht."
+      ]
+    ],
+    [
+      [
+        "Morgends ",
+        {},
+        ", abends ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Zum Scheuern und Putzen nur ",
+        {},
+        " benutzen."
+      ]
+    ],
+    [
+      [
+        "Mit ",
+        {},
+        " siehst du bezaubernd aus."
+      ]
+    ],
+    [
+      [
+        "Wir können alles. Außer ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "Nichts geht über ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        {},
+        " für's ganze Volk."
+      ]
+    ],
+    [
+      [
+        {},
+        " weiß, was Frauen sich wünschen."
+      ]
+    ],
+    [
+      [
+        "Mehr ",
+        {},
+        " braucht kein Mensch."
+      ]
+    ],
+    [
+      [
+        "Bitte ein ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        {},
+        " ist die Lösung."
+      ]
+    ],
+    [
+      [
+        "Wir produzieren ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        "An meine Haut lasse ich nur ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        {},
+        ". Was sonst?"
+      ]
+    ],
+    [
+      [
+        "Nichts bewegt sich wie ",
+        {},
+        "."
+      ]
+    ],
+    [
+      [
+        {},
+        " rentiert sich."
+      ]
     ]
   ],
   "responses": [
@@ -824,6 +1100,125 @@
     "Direkt neben anderen masturbieren",
     "Menschenhandel",
     "Febreeze®",
-    "Handschuhe"
+    "Handschuhe",
+    "Krabben",
+    "Taylor Swifts Liebesleben",
+    "Mord",
+    "Einem Vegetarier heimlich Fleisch ins Essen mischen",
+    "Vodka in Wasserflaschen",
+    "Mit Käfern bedeckt aufwachen",
+    "Gefälschte Kündigungsschreiben",
+    "Ein Wellensittich mit der Absicht dich zu quälen",
+    "Peinliches Schweigen",
+    "Mit einem Walross verwechselt werden",
+    "Wütende Wespen in einem Glückskeks",
+    "Fett",
+    "Ganz nebenbei einen Hässlichkeitswettbewerb gewinnen",
+    "Bälle, die heftig im Wind wehen",
+    "Sich beim falschen Mädchen für den Sex der letzten Nacht entschuldigen",
+    "Hasch-Kekse für den Weihnachtsmann hinlegen",
+    "Ein Doppelsitz, aber als Toilette",
+    "Die panische Angst vor erigierten Genitalien",
+    "Ein Mund voll mit etwas von dem ich hoffe das es Käse ist",
+    "Passiv-aggressive Haustiere",
+    "Tanztheater",
+    "Hilary Clinton",
+    "Überfüllte Kondome",
+    "kleine Elefanten",
+    "Zu viele Pinguine",
+    "Migräne...",
+    "Deine Mudda!",
+    "9/11",
+    "Melania Trump",
+    "Donald Trump",
+    "Irland",
+    "Eine Tasche voller Fragezeichen",
+    "Dem Präsidenten einen Blowjob geben",
+    "Captain fucking America",
+    "David Bowie",
+    "Beyoncé Knowles",
+    "Der Versuch deinen Nachbarn zu vergiften, um festzustellen, dass es der falsche Nachbar war",
+    "Schwitzende Arschritze",
+    "Sam und Dean Winchester",
+    "Eine Tardis",
+    "Realisieren, dass du nichts Besonderes bist",
+    "Kindern beibringen zu fluchen",
+    "Eine Mango unsittlich berühren",
+    "Gott (wenn er denn existieren würde)",
+    "Kühe",
+    "Schneckenschleim hinterlassen",
+    "Wie Lachs riechen",
+    "Diskriminierung",
+    "Tierporno",
+    "Aus einem Autofenster kacken",
+    "Super Mario",
+    "Super Marios minderbemittelter Bruder, Luigi",
+    "Heidi Klum",
+    "Aldi",
+    "Kaiser's",
+    "Veganismus",
+    "Chronisches Grinsen",
+    "Schnaps mit Kuchengeschmack",
+    "Bratensoße",
+    "Doppelte Penetration",
+    "Panik!",
+    "Apple",
+    "Samsung",
+    "Microsoft",
+    "Eine abgetrennte Hand",
+    "Einhorn-Sperma",
+    "NOKIA-HANDYS!!!",
+    "Versehentliches Ableben",
+    "Sklaven",
+    "Eine vernichtend große Erektion",
+    "Wonder Woman",
+    "Papas Nippel",
+    "Peinlich dicke Zehen",
+    "Ein nebensächlicher Tittengrabschen",
+    "Zwei kalte Hot-Dogs",
+    "Blumen die ficken",
+    "Miley Cyrus",
+    "Nordkoreanische Freiheitskämpfer",
+    "Kaktus Penetrationen",
+    "Russische Nutten",
+    "Eine unhöfliche Enthauptung",
+    "Eine Beinprothese im Straßengraben",
+    "Reife Frauen ab 40",
+    "Ein Pferdekopf",
+    "Ein Kruzifix",
+    "Sodomie!",
+    "Federn von toten Tieren",
+    "Kreuzzüge",
+    "Eine Urheberrechtsverletzung",
+    "Heitere Brandbomben",
+    "Eine haarige Eichel",
+    "Stephen Hawking, der versaut redet",
+    "Von Mundwasser betrunken werden",
+    "Abtreibung 18 Jahre danach",
+    "Ein Fötus",
+    "Tote Kleinkinder",
+    "Ottfried Fischer ernähren",
+    "Ein einsames Schamhaar",
+    "Robert Downey, Jr.",
+    "Zivile Opfer",
+    "Der fleißige Mexikaner",
+    "So wütend werden, dass man einen Ständer bekommt",
+    "Das Richtige tun",
+    "Justin Bieber",
+    "Lee Harvey Oswald",
+    "Tom Cruise",
+    "Obdachlose",
+    "Ein Pantomime, der einen Schlaganfall hat",
+    "Hulk Hogan",
+    "Natursekt Spiele",
+    "Die Plazenta",
+    "Spontane menschliche Selbstentzündung",
+    "Freunde mit Extras",
+    "Fingermalerei",
+    "Ein kleines Pferd",
+    "Arme Leute",
+    "Das Gedränge",
+    "Ihr den Hintern versohlen",
+    "Anzügliche Abzieh-Tattoos"
   ]
 }
