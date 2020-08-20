@@ -20,4 +20,4 @@ PROGRESS:
 
 -> 81,5 % finished -> Version 0.81.5
 
-NOTE: This progress doesn't happen automatically, it is all "hand-written" into the MassiveDecks-page.
+NOTE: This progress doesn't happen automatically, it is all "hand-written" into the ManyDecks-page.
